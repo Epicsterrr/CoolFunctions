@@ -1,0 +1,21 @@
+{
+  "name": "coolfunctions",
+  "version": "0.1.0",
+  "description": "An npm package with cool functions for your standard needs!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NPM",
+    "Functions"
+  ],
+  "author": "Octagonster",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "discord.js": "^12.5.1",
+    "events": "^3.3.0",
+    "lodash": "^4.17.21"
+  }
+}
